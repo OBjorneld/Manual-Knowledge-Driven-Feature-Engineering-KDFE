@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Manual knowledge driven feature Engineering (KDFE)
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Lars Olof
+    family-names: Björneld
+    orcid: 'https://orcid.org/0000-0002-8370-2950'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/OBjorneld/Manual-Knowledge-Driven-Feature-Engineering-KDFE
+abstract: >
+  Feature engineering inspired by domain experts (KDFE) on
+  real world medical data
+keywords:
+  - Feature engineering
+  - Domain expert
+date-released: '2023-08-24'
