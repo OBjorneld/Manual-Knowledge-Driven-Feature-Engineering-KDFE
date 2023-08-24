@@ -1,4 +1,4 @@
-@software{Manual KDFE,
+{@software{Manual KDFE,
   author = {Olof, Björneld},
   month = {04},
   title = {{Manual knowledge driven feature Engineering (KDFE)}},
