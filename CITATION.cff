@@ -1,0 +1,8 @@
+@software{Manual KDFE,
+  author = {Olof, Björneld},
+  month = {04},
+  title = {{Manual knowledge driven feature Engineering (KDFE)}},
+  url = {https://github.com/OBjorneld/Manual-Knowledge-Driven-Feature-Engineering-KDFE},
+  version = {7.0},
+  year = {2023}
+}
